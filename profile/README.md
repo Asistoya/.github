@@ -28,7 +28,7 @@
 | 👩‍🏫 **Panel Docente** | Control de asistencia, calificaciones y comunicación |
 | 👨‍👩‍👧 **Panel de Padres** | Seguimiento en tiempo real del progreso de los hijos |
 | 📸 **Reconocimiento Facial** | Registro de asistencia automatizado mediante IA |
-| 📱 **App Móvil** | Disponible para Android via Play Store (React Native) |
+| 📱 **App Móvil** | Disponible para Android via Play Store (Kotlin) |
 | 🌐 **PWA** | Acceso desde cualquier dispositivo sin instalación |
 
 ---
@@ -38,8 +38,8 @@
 <div align="center">
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Appwrite](https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
@@ -53,7 +53,7 @@
 | Repositorio | Descripción | Estado |
 |---|---|---|
 | `asistoya-web` | Frontend web (React + TypeScript) | 🟡 En desarrollo |
-| `asistoya-mobile` | App móvil (React Native / Kotlin) | 🟡 En desarrollo |
+| `asistoya-mobile` | App móvil (Kotlin) | 🟡 En desarrollo |
 | `asistoya-empresas` | Panel para empresas e instituciones | 🟡 En desarrollo |
 | `asistoya-empresas-mobile` | App móvil empresas (Kotlin) | 🟡 En desarrollo |
 
