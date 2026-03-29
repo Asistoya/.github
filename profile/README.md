@@ -48,14 +48,54 @@
 
 ---
 
-## 📁 Repositorios
+## 📂 Nuestros Proyectos
 
-| Repositorio | Descripción | Estado |
-|---|---|---|
-| `asistoya-web` | Frontend web (React + TypeScript) | 🟡 En desarrollo |
-| `asistoya-mobile` | App móvil (Kotlin) | 🟡 En desarrollo |
-| `asistoya-empresas` | Panel para empresas e instituciones | 🟡 En desarrollo |
-| `asistoya-empresas-mobile` | App móvil empresas (Kotlin) | 🟡 En desarrollo |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🌐 asistoya-web</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"/>
+      </div>
+      <br/>
+      <p align="center">Panel web principal de Asistoya. Incluye dashboards para administradores, docentes y padres de familia con gestión completa de la institución educativa.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📱 asistoya-mobile</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"/>
+      </div>
+      <br/>
+      <p align="center">App móvil nativa para Android. Permite a padres y docentes consultar asistencia, calificaciones y recibir notificaciones en tiempo real.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🏢 asistoya-empresas</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"/>
+      </div>
+      <br/>
+      <p align="center">Panel SaaS para empresas e instituciones educativas. Gestión multi-sede, reportes avanzados y administración centralizada.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💼 asistoya-empresas-mobile</h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"/>
+      </div>
+      <br/>
+      <p align="center">App móvil para el ecosistema empresarial de Asistoya. Acceso rápido a métricas, empleados y gestión operativa desde el móvil.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
