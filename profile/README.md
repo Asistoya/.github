@@ -82,7 +82,7 @@
         <img src="https://img.shields.io/badge/Estado-En%20Desarrollo-yellow?style=flat-square"/>
       </div>
       <br/>
-      <p align="center">Panel SaaS para empresas e instituciones educativas. Gestión multi-sede, reportes avanzados y administración centralizada.</p>
+      <p align="center">Panel SaaS para empresas. Gestión multi-sede, reportes avanzados y administración centralizada.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">💼 asistoya-empresas-mobile</h3>
