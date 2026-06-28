@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/266749649?v=4" width="120" style="border-radius: 50%;" alt="Asistoya Logo"/>
 
-# 🏫 Asistoya
+# Asistoya
 
 **Plataforma SaaS de gestión escolar inteligente**
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 ¿Qué es Asistoya?
+## ¿Qué es Asistoya?
 
 **Asistoya** es una plataforma SaaS diseñada para digitalizar y optimizar la gestión de instituciones educativas en República Dominicana y Latinoamérica. Centraliza la administración escolar, asistencia, comunicación y seguimiento académico en un solo lugar.
 
@@ -24,12 +24,12 @@
 
 | Módulo | Descripción |
 |---|---|
-| 🧑‍💼 **Panel Admin** | Gestión completa de la institución, usuarios y configuraciones |
-| 👩‍🏫 **Panel Docente** | Control de asistencia, calificaciones y comunicación |
-| 👨‍👩‍👧 **Panel de Padres** | Seguimiento en tiempo real del progreso de los hijos |
-| 📸 **Reconocimiento Facial** | Registro de asistencia automatizado mediante IA |
-| 📱 **App Móvil** | Disponible para Android via Play Store (Kotlin) |
-| 🌐 **PWA** | Acceso desde cualquier dispositivo sin instalación |
+|  **Panel Admin** | Gestión completa de la institución, usuarios y configuraciones |
+|  **Panel Docente** | Control de asistencia, calificaciones y comunicación |
+| **Panel de Padres** | Seguimiento en tiempo real del progreso de los hijos |
+|  **Reconocimiento Facial** | Registro de asistencia automatizado mediante IA |
+|  **App Móvil** | Disponible para Android via Play Store (Kotlin) |
+|  **PWA** | Acceso desde cualquier dispositivo sin instalación |
 
 ---
 
